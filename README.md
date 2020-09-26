@@ -13,7 +13,7 @@ Connect Adafruit Circuit Playground Bluefruit, PMSA003 and SGP30 to detect Air Q
 9. Arduino 1.8.13
 
 ### Wiring Diagram
-![image]()
+![image](https://github.com/dvsseed/CPB_SGP30_PMSA003/blob/master/wiring_diagram.jpg)
 
 ### Running result (Serial Monitor at Arduino IDE)
-![image](https://github.com/dvsseed/CPB_SGP30_PMSA003/blob/master/wiring_diagram.jpg)
+![image](https://github.com/dvsseed/CPB_SGP30_PMSA003/blob/master/sensor_data.png)
